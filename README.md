@@ -14,3 +14,7 @@ The Task Scheduler was created to address the common challenge of effectively ma
 How It Contributes to Me and the Community?
 
 Building the Task Scheduler helped me improve my Java skills and problem-solving. It's a simple tool that prioritizes tasks based on deadlines, making it useful for productivity. The code can also be used as an educational resource. This project has the potential to be expanded with more features.
+
+
+![Uploading image.png…]()
+
